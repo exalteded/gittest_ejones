@@ -1,0 +1,324 @@
+﻿Player Name: Setno
+
+
+	Character Name: Rain
+
+
+	Clan:  Nosferatu
+
+
+	Title: None
+
+
+	Sire: Unknown
+
+
+	Age Category: Late Ancilla                     
+
+
+	Nature:   Defender
+
+
+	Demeanor: Mercenary   
+
+
+	Humanity: 8
+
+
+	Generation: 10
+Blood: 13
+	Willpower: 6
+Courage: 5
+	Self-Control: 4
+Conscience: 4
+	
+
+	
+
+	
+
+	Physicals: 14
+	Mentals: 13
+	Socials: 10
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Obfuscate 5
+	Defense 5
+     Vs Staves 
+	Mentor 5
+    Teaches:  Auspex, Celerity, Fortitude, Lore: Changing Breeds, Lore: Spirit, Medicine, Virtues, Willpower
+	Animalism 4
+	Security 4
+	Resources 5
+	Potence 2 
+	Animal Ken 3
+	Haven 4
+	Celerity 3
+	Craft: Spawning Pits 4
+     Rats
+	Transportation Influence 5
+	Fortitude 3
+	Leadership 3                  
+	Bureaucracy Influence 2
+	Lure of Flames 2
+	 Athletics 2                   
+	Herd 2
+	Auspex 2
+	 Awareness 2
+	Police Influence 2
+	Thaumaturgy: Path of Technomancy 1
+	Brawl 2                            
+	Contacts 1: Street people
+	
+
+	Melee 2                            
+	
+
+	Rituals
+	Occult 2
+	Merits 
+	Reawakening Dead Water
+	 Politics 2                          
+	Anarch Sorcerer: Hacktivism 
+	Ritual Indicator
+	 Stealth 2                           
+	Darkvision (6)
+	Lesser Deflection of Wooden Doom
+	Streetwise 2                  
+	Punk Luck
+	Principle Focus of Vitae Infusion
+	Subterfuge 2                    
+	Efficient Digestion
+	Open Passage
+	Occult 2
+	
+
+	
+
+	Academics 1
+     Latin 
+	Flaws
+	Labs and Property
+	Finance 1
+	Can’t Cross Running Water  
+	Lab for Craft: Spawning Pit
+	Lore: Changing Breeds 3
+	Dull Bite
+	Lab for Science: Chemistry 
+	Lore: Fae 4
+     Courts
+	Infections Bite
+	Lab for: Lore: Mage (created by Mike Hoffman) 
+	Lore: Hunter 4
+     Tactics
+	
+
+	Lab for Stealth
+	Lore: Infernal 4
+     KOE
+	
+
+	Lab for Medicine 
+	Lore: Kindred 4
+    Nosferatu
+	XP 
+	Lab for Occult 
+	Lore: Mage 4
+     Codes
+	Total Earned: 139
+Unspent: 27
+
+Freebies Available: 8
+	Lab for  Lore: Kindred
+	Lore: Spirit 4
+     Courts
+	
+
+	Lab for  Lore: Changing Breeds
+	Survival 1
+	-5 XP Auspex 1 (Mentor 5)
+	Lab for  Lore: Wraith
+	Drive 1
+	-1 Socials 7 (Mentor 5)
+	Lab for Lore: Fae
+	Medicine 2
+	-2 XP Lore: Spirit 1 
+	Lab for Lore: Hunter
+	Lore: wraith 4
+     Classification 
+	-8XP Thaumaturgy: Path of Technomancy 1 
+	Lab for Lore: Infernal 
+	
+
+	-7XP Auspex 2 (Mentor 5)
+	Spawning Pits
+	
+
+	-16XP Celerity 3 (Mentor 5)
+	
+
+	
+
+	-1XP Socials 8 (Mentor 5)
+	Equipment
+	
+
+	-1XP Medicine 1 (Mentor 5)
+	$508,000 cash
+	
+
+	-2XP Lore: Spirit 2 (Mentor 5)
+	Occult +5 necklace
+
+
+	
+
+	-3XP Lore: Kindred 3 (lab, live fire)
+	Animal Ken +2 Whistle, works only in the spawning pits
+
+
+	
+
+	-3XP Lore: Spirit 3 (lab, live fire)
+	Staff/Spear (modified staff with removable tip)
+	
+
+	-2XP Lore: Changing Breeds 1 (mentor, lab)
+	Pit of Rats 
+     Bulky 2
+     Increased Steps 2
+     Increased Damage 2
+     Acidic Blood 1
+	
+
+	-2XP Lore: Wraith 1 (lab, live fire)
+	Goliath Bird-Eating Spider, bulky x2
+	
+
+	-2XP Lore: Fae 1 (lab, live fire)
+	Misc: Tiger Large Chameleon, 200lbs crystal meth
+	
+
+	-2XP Lore: Mage 1 (lab and live fire)
+	
+
+	
+
+	-2XP Lore: Hunter 1 (lab, live fire)
+	
+
+	
+
+	-5XP Lore: Kindred 4 (lab, live fire)
+	
+
+	
+
+	-5XP Lore: Spirit 4 (lab, live fire
+	
+
+	
+
+	-2XP Lore: Changing Breeds 2 (mentor, lab)
+	
+
+	
+
+	-2XP Lore: Wraith 2 (lab, live fire)
+	
+
+	
+
+	-2XP Lore: Infernal 1 (lab, live fire)
+	
+
+	
+
+	-2XP Lore: Fae 2 (lab, live fire)
+	
+
+	
+
+	-2XP Lore: Mage 2 (lab and live fire)
+	
+
+	
+
+	-2XP Lore: Hunter 2 (lab, live fire)
+	
+
+	
+
+	-2XP Lore: Infernal 2 (lab and live fire)
+	
+
+	
+
+	-3xp Lore: Changing Breeds 3 (mentor)
+	
+
+	
+
+	-4XP Lore: Fae 3
+	
+
+	
+
+	-4XP Lore: Hunter 3
+	
+
+	
+
+	-4XP Lore: Infernal 3
+	
+
+	
+
+	-4XP Lore: Mage 3
+	
+
+	
+
+	-4XP Lore: Wraith 3
+	
+
+	
+
+	-1XP Physicals 14 (mentor)
+	
+
+	
+
+	-1XP Mentals 13  (mentor)
+	
+
+	
+
+	-1XP Socials 9 (mentor)
+	
+
+	
+
+	-6XP Craft: Spawning Pits 4 (live fire, manual)
+	
+
+	
+
+	-1XP Socials 10 (mentor)
+	
+
+	
+
+	-3XP Medicine 2 (live ifrem manual)
+	
+
+	
+
+	-16XP Fortitude 3 (mentor)

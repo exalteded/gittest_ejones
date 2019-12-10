@@ -1,0 +1,258 @@
+﻿Player Name:   Tess Kohlmorgen
+
+
+	Character Name: Zurie Adskoye
+
+
+	Clan: Lasombra
+
+
+	Title: none
+
+
+	Sire: Gabriella
+
+
+	Age Category:  Fledgling                   
+
+
+	Nature: Fanatic
+
+
+	Demeanor:  Adherent
+
+
+	Humanity: 7
+
+
+	Generation: 9
+Blood: 14
+	Willpower: 4
+Courage: 3
+	Self-Control: 5
+Conscience: 2
+	
+
+	
+
+	
+
+	Physicals: 12
+	Mentals: 11
+	Socials: 9
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Obtenebration 5
+	Awareness 3
+	Haven 5
+	Potence 2
+	Brawl 3
+	Herd 3
+	
+
+	Craft: Shadow 5
+	Influence: Church 4
+Influence: Finance 1
+	Merits 
+	Defense 3
+	Influence: High Society 1 
+	None
+	Leadership 2
+	Influence: Industry 1
+	
+
+	Lore Spirit 3 
+	Influence: Legal 1
+	Flaws
+	Occult 5
+	Influence: Police 1
+	Bad Sight 
+	
+
+	Influence: University 3
+	Grip of the Damned 
+	Equipment
+	Mentor 5 (craft: shadow, occult, lore: spirits, Obtenebration, abyss mysticism) Mentor is an Abyssal creature that guides Zurie and gives her information in exchange for favors.
+	Infertile Vitae 
+	$2,000 Cash
+	Influence: Occult 3
+	Nightmares 
+	Ability Item: +4 Occult Ring named “Umbral Band”
+Ability Item +5 Craft: Shadow equipment 
+	Resources 2
+	
+
+	Armor: Soft armor 1 Flak Jacket
+	Retainer 1
+	Rituals
+	
+
+	XP 
+	Abyssal Leash (3)
+	Labs and Properties
+	Total Earned: 126
+	Craft the Oubliette
+	Library 3 (Spirit Library)
+	Unspent: 31
+	Heart that Beats in Silence
+	Oubliette 1
+	Freebies Available: 2
+	Claiming the Dark
+	
+
+	
+
+	Peirce the Murk (3)
+	
+
+	-1XP Physicals 4 (Expert Instructor)
+	Eclipse of the Heart 
+	
+
+	 -4XP Heart that Beats in Silence
+	Embrace the Black
+	
+
+	-1XP Mentals 8
+	
+
+	
+
+	-1XP Physicals 5
+	
+
+	
+
+	-2XP Claiming the Dark
+	
+
+	
+
+	-1XP Socials 6
+	
+
+	
+
+	-1XP Mentals 9
+	
+
+	
+
+	-1XP Physicals 6 
+	
+
+	
+
+	-6XP Craft: Shadow 4
+	
+
+	
+
+	-1XP Mentals 10
+	
+
+	
+
+	-1XP Physicals 7
+	
+
+	
+
+	-1XP Socials 7
+	
+
+	
+
+	-4XP Potence 1 (life fire, expert teacher)
+	
+
+	
+
+	-1XP Mentals 11
+	
+
+	
+
+	-1XP Physicals 8
+	
+
+	
+
+	-1XP Socials 8
+	
+
+	
+
+	-6XP Peirce the Murk (Mentor)
+	
+
+	
+
+	-12XP Obtenebration 5 (Mentor 5)
+	
+
+	
+
+	-1XP Physicals 9 
+	
+
+	
+
+	-1XP Socials 9
+	
+
+	
+
+	-10XP Eclipse of the Heart (Mentor 5)
+	
+
+	
+
+	-5XP Potence 2 (live fire)
+	
+
+	
+
+	-1XP Physicals 10 (life fire)
+	
+
+	
+
+	-3XP Peirce the Murk (Mentor 5)
+	
+
+	
+
+	-3XP Abyssal Leash (Mentor 5)
+	
+
+	
+
+	-4XP Embrace the Black (Mentor 5)
+	
+
+	
+
+	-2XP Physicals 11 (live ifre) 
+	
+
+	
+
+	-3XP leadership 1
+	
+
+	
+
+	-3XP leadership 2
+	
+
+	
+
+	-2XP Physicals 12 (live fire)

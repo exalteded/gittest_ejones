@@ -1,0 +1,241 @@
+﻿Player Name:   Josh Boyum
+
+
+
+
+	Character Name: Padraigh O’Kelly
+
+
+	Clan: Brujah 
+
+
+
+
+	Title: none
+
+
+	Sire: Unknown
+
+
+	Age Category: Unknown                     
+
+
+	Nature:  Autocrat
+
+
+	Demeanor:  Caregiver
+
+
+	Humanity: 5
+
+
+	Generation: 8
+Blood: 15
+	Willpower: 5
+Courage: 5
+	Self-Control: 5
+Conscience: 4
+	
+
+	
+
+	
+
+	Physicals: 16
+	Mentals: 14
+	Socials: 15
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Animalism 2
+	Academics 2
+     Irish, Italian
+	Haven 5
+	Auspex 2
+	Athletics 5
+     Grappling
+	Herd 5
+     Call Girls
+	Burning Wrath
+	Awareness 5
+     Disciplines
+	Influence: Finance 3
+    JP Morgan
+	Celerity 5
+	Brawl 5
+     Punching
+	Influence: Legal 5
+	Dominate 3
+	Defense 5
+     Vs Unarmed
+	Influence: High Society 4
+    People who go to parties
+	Fortitude 5
+	Drive 2
+	Influence: Underworld 5
+     Mob
+	Hand of Stone 
+	Empathy 1
+	Resources 6
+	Polis - Sin 5
+	Finance 5
+     Hostile Takeovers
+	Influence: Politics 3
+	Potence 5
+	Firearms 1
+	Influence: Casino 5
+     New York, New York
+	Presence 5
+	Intimidation 2
+	Influence: Church 2
+	Temporis 3
+	Investigation 2
+	
+
+	Thunderclap Strike 
+	Leadership 5
+	Merits 
+	
+
+	Lore: Changing Breeds 2
+	Blush of Health
+	Rituals
+	Lore: Fey 1
+	Bruiser
+	none
+	Lore: Hunter 1
+	Eat Food
+	
+
+	Lore: Infernal 1
+	Expert Teacher
+	Labs
+	Lore: Kindred 2
+	Flaws
+	Lab for Awareness 
+	Lore: Mage 2
+	Addiction
+      Nicotine
+	Lab for Brawl
+	Lore: Spirit 1
+	Bad Sight 
+	Lab for Celerity 1
+	Lore: Wraith 1
+	Additional clan flaw
+	Lab for Defense
+	Medicine 2
+	XP 
+	Lab for Fortitude 1, 4
+	Melee 5
+	Total Earned: 162
+	Lab for Physicals
+	Occult 2
+	Unspent:  21
+	Lab for Potence 4
+	Politics 2
+	Freebies Available: 1
+	Lab for Leadership
+	Security 1
+	
+
+	Lab for Survival 
+	Stealth 2
+	-12XP Fortitude 3 (Out of clan, lab, live fire)
+	Lab for Temporis 1
+	Streetwise 5
+     Black Markets
+	-18XP Fortitude 4 (Out of clan, lab, live fire)
+	Lab for Temporis 2
+	Subterfuge 3
+	-12XP Celerity 5 (lab, live fire, expert teacher)
+	Lab for Temporis 3
+	Survival 2
+	-20XP Fortitude 5 (out of clan, live fire, lab, expert teacher
+	
+
+	
+
+	-7XP Burning Wrath 
+	Equipment
+	
+
+	-7XP Hand of Stone 
+	Ability Item: Leadership +4 Suit  
+	
+
+	-7XP Leadership 4 (Exceptional Instructor, lab)
+	Ability Item: Drive +4 Car with Hard Armor 4  
+	
+
+	-3XP Mentals 14
+	Fishing Bow, grapple, Potence 5 rated
+	
+
+	-3XP Physicals 16 (lab)
+	Large Sword, tsubo (cross piece), +5 intimidate, expensive, Potence-rated, Ward: Kindred 
+	
+
+	-3XP Socials 15
+	Wraith-warded silver ring
+	
+
+	-2XP Lore: Spirit 1
+	Iron legion Salon mask, soul steel
+	
+
+	-2XP Lore: Wraith 1
+	Miscellaneous items: 30 Molotov Cocktails, 13 Ghouled dogs, Parts from 4 disarmed bombs
+	
+
+	-2XP Lore: Infernal 1
+	
+
+	
+
+	-2XP Lore: Fey 1
+	
+
+	
+
+	-2XP Lore: Hunter 1
+	
+
+	
+
+	-6XP Thunderclap strike (lab)
+	
+
+	
+
+	-4XP Melee 3 (lab)
+	
+
+	
+
+	-2XP Survival 2 (lab)
+	
+
+	
+
+	-6xp Temporis 1 (live fire, expert teacher)
+	
+
+	
+
+	-7XP Expert Teacher merit (lab, expert teacher)
+	
+
+	
+
+	-12XP Temporis 3 (life fire, lab)
+	
+
+	
+
+	-2XP Survival 2 (lab)

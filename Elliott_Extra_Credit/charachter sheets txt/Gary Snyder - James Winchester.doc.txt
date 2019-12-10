@@ -1,0 +1,230 @@
+﻿Player Name:   Gary Snyder
+
+
+	Character Name:  James Winchester
+	Clan:   Ventrue
+
+
+	Title: Consul
+
+
+	Sire:    Unknown
+
+
+	Age Category:  Early Elder
+
+
+	Nature: Capitalist
+
+
+	Demeanor: Tycoon
+
+
+	Humanity: 7
+
+
+	Generation: 9
+Blood: 14
+	Willpower:8 
+Courage:  5
+	Self-Control: 5
+Conscience: 2
+	
+
+	
+
+	
+
+	Physicals:  14
+	Mentals: 13
+	Socials: 15
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Animalism 3
+	Academics 5
+     History, Arabic, Italian, Latin, Romanian, Spanish 
+	Clan Status: Assamite 2
+	Auspex 3
+	Athletics 5
+     Grappling
+	Clan status: Giovanni 2
+	Bardo 2
+	Awareness 5
+     Kindred Powers
+	Clan Status: Ventrue 2
+	Celerity 3
+	Defense 5
+     Vs Melee
+	Contact 1
+     Lasombra
+	Dominate 4
+	Drive 2
+	Contact 1
+     Malkavian Justicar Office
+	Fortitude 5
+	Empathy 5
+     Long Term Concerns 
+	Contact 1
+      Tremere Justicar Office
+	Polis: Sin 2
+	Finance 5
+    Business Acumen
+	Contact 1 
+      Tzimisce
+	Potence 3
+	Firearms 2
+	Court of Many Colors
+	Presence 5
+	Intimidation 4
+     Kindred 
+	Haven 3
+	Rescue Beacon 
+	Investigation 2
+	Herd 2
+     Athletes
+	Serpentis 1
+	Leadership 5
+     Kindred
+	Influence: Bureaucracy 4
+	
+
+	Lore: Kindred 6
+     Jyhad
+	Influence High Society 4
+     Recreational Event Planning and Coordination
+	Merits 
+	Lore: Spirit 2
+	Influence: Finance 4
+	Color coordinated 
+	Medicine 2
+	Influence: Media 3
+	
+
+	Melee 4
+     Swords
+	Retainer 1 (Ghoul)
+     Influence: Beauracracy 
+	Flaws
+	Occult 2
+	Retainer 1 (Ghoul)
+     Influence: Finance
+	Bad Sight (1)
+	Politics 5
+     Camarilla
+	Retainer 1 (Ghoul)
+     Influence: High Society
+	  
+	Security 1
+	Retainer 1 (Ghoul)
+     Influence: Media
+	
+
+	Stealth 2
+	Resourcea 6
+	
+
+	Streetwise 2
+	
+
+	Rituals
+	Subterfuge 3
+     Chinese customs, Jade court 
+	Equipment
+	None
+	Survival 5
+     Tracking 
+	Leadership +5 Jacket 
+	
+
+	
+
+	Leadership +2 Cowboy Hat 
+	Propterties 
+	
+
+	Hard Armor 3 
+     please specify an item
+	Library 2
+     Lore: Kindred 
+	
+
+	$130,000 cash
+	
+
+	
+
+	
+
+	
+
+	
+
+	XP 
+	
+
+	
+
+	Total Earned: 48
+	
+
+	
+
+	Unspent: 8
+	
+
+	
+
+	Freebies Available: 0
+	
+
+	
+
+	
+
+	
+
+	
+
+	-12XP Presence 5 (lab, life fire, expert teacher)
+	
+
+	
+
+	-1XP Subterfuge specialty Chinese Customs (live fire)
+	
+
+	
+
+	-1XP Subterfuge specialty Jade Courts (live fire)
+	
+
+	
+
+	-5XP Bardo 1 (lab, live fire, expert teacher)
+	
+
+	
+
+	-5XP Polis: Sin 1 (lab, live fire, expert teacher)
+	
+
+	
+
+	-5XP Polis: Sin 2 (lab, live fire, ET)
+	
+
+	
+
+	-6XP Serpentis 1 (live fire, lab)
+	
+
+	
+
+	-5XP Bardo 2 (ET, lab, live ifre)

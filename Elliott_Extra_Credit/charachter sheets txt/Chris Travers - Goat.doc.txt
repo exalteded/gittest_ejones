@@ -1,0 +1,209 @@
+﻿Player Name: Chris Travers
+
+
+	Character Name: Goat
+
+
+	Clan: Nosferatu 
+
+
+	Title: None
+
+
+	Sire: Rain
+
+
+	Age Category: Unknown                     
+
+
+	Nature: Rouge
+
+
+	Demeanor: Conformist
+
+
+	Humanity: 7
+
+
+	Generation: 10
+Blood: 13
+	Willpower: 5
+Courage: 3
+	Self-Control: 3
+Conscience: 3
+	
+
+	
+
+	
+
+	Physicals: 9
+	Mentals: 12
+	Socials: 10
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Auspex 2
+	Awareness 5
+     Kindred
+	Influence: Legal 5
+     Law Firm
+	Animalism 3
+	Investigation 5
+     Tracking
+	Herd 3
+     Homeless
+	Elajo 1
+	Security 5
+     Locks
+	Influence: Bureaucracy 4
+	Fortitude 1
+	Stealth 5
+     Obfuscate 
+	Influence: University 3
+      University of Nevada, Las Vegas
+	Obfuscate 5
+	Subterfuge 5
+     Lying
+	Resources 3
+	Potence 1
+	Animal Ken 3
+	Haven 3
+	Way of Air 1
+	Craft: Spawning Pit 5
+     Mammal, reptile, bird, arthropod, fish 
+	Retainer 1 
+
+     Goat
+	
+
+	Defense 3
+	Retainer 1
+	Rituals
+	Athletics 2
+	
+
+	Devil’s Touch
+	Brawl 2
+	XP 
+	
+
+	Lore: Kindred 2
+	Total Earned: 152
+	Equipment
+	Streetwise 2
+	Unspent: 35
+	    
+	Survival 2
+	Freebies Available: 4
+	$5000 cash
+	Academics 1
+     Spanish
+	
+
+	Politics +4   Kuei jin  emblem
+	Finance 1
+	-1XP Physicals 7 (lab)
+	Expression +2 Finger paint kit
+	Leadership 1
+	-1XP Socials 8 (Exceptional teacher)
+	Security +2 Lockpicks
+	
+
+	-8XP Awareness 5 (lab)
+	+4 spawning pit tools
+	Merits 
+	-2XP Socials 9  
+	Weapon: Wakisahi  
+     2off/1def traits 
+     2 Lethal
+	Early Riser (3)
+	-1XP Physicals 8 (lab)
+	Manuals for Thaumaturgy: Way of Air 1-5
+	Inoffensive to Animals (2)
+	-14XP Humanity 7 (no teacher)
+	
+
+	Team Lead (6)
+	-3XP for Craft: Spawning Pit 1
+	Properties 
+	Flaws
+	-12XP Obfuscate 4 (lab, expert teacher)
+	Lab for Stealth
+	Prey Exclusion (2)
+      Children
+	-1XP Physicals 9 (lab)
+	Lab for Way of Air 1
+	
+
+	-1XP Socials 10 (Expert teacher)
+	Library 2
+     Spawning Pit
+	
+
+	-16XP Obfuscate 5 (Exceptional Instructor, Lab)
+	
+
+	
+
+	-3XP Potence 1 (in clan, exceptional instructor, live fire, lab)
+	
+
+	
+
+	-4XP Defense 3 (lab)
+	
+
+	 
+	-2XP Security 2 (Exceptional Instructor)
+	
+
+	
+
+	-4XP Stealth 3 (Exceptional Instructor)
+	
+
+	
+
+	-4XP Stealth 4 (Expert teacher, lab)
+	
+
+	
+
+	-6XP Security 4 (Expert teacher, lab)
+	
+
+	
+
+	-7XP Auspex 1 
+	
+
+	
+
+	-6XP Way of Air 1 (lab, live fire)
+	
+
+	
+
+	-5XP Auspex 2 (exceptional instructor, lab, live fire)
+	
+
+	
+
+	-2XP Leadership 1
+	
+
+	
+
+	-15XP Team Lead
+	
+
+	
+
+	-2xP Leadersihp 2

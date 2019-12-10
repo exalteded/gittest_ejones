@@ -1,0 +1,250 @@
+﻿Player Name:    Dan Bartlett
+
+
+	Character Name: ‘Scrap’
+
+
+	Clan:  Nosferatu
+
+
+	Title: None
+
+
+	Sire: Unknown
+
+
+	Age Category: Unknown                     
+
+
+	Nature: Rouge 
+
+
+	Demeanor:  Curmudgeon
+
+
+	Humanity: 6
+
+
+	Generation: 10
+Blood: 12
+	Willpower: 7
+Courage: 5
+	Self-Control: 5
+Conscience: 2
+	
+
+	
+
+	
+
+	Physicals: 14
+	Mentals: 15
+	Socials: 13
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Animalism 3
+	Academics 2
+     Spanish, Latin, Hebrew
+	Contact 1
+      Casino Insider 
+	Auspex 4
+	Animal Ken 3
+	Contacts 3
+     Anarch Nosferatu in Los Angeles
+	Celerity 3
+	Athletics 2
+	Contacts 3
+     Sabbat Nosferatu in Reno
+	Dominate 4
+	Awareness 2
+	Contacts 3
+     Winston Bonaparte III (High Society)
+	Fortitude 2
+	Brawl 2
+	Haven 4
+	Obfuscate 5
+	Defense 5
+     Blades
+	Herd 2
+     Cluster of homeless that shelter in one of his scrap yards close to the city. Staff are instructed not to interfere with them unless they actively cause trouble.
+	Polis – Sin 3
+	Firearms 1
+	Influence: Bureaucracy 1
+	Potence 2
+	Intimidate 1
+	Influence: Church 1
+	Presence 1
+	Investigation 5
+     Heightened Senses
+	Influence: Finance 1
+	Protean 1
+	Leadership 2
+	
+
+	Thaumaturgy: Path of Countermagic 1
+	Lore: Kindred 3
+	Influence: Health 1
+	Thaumaturgy: Path of Mars 2
+	Melee 5
+     Spears
+	Influence: Police 1
+	Visceratika 1
+	Occult 2
+	Influence: Politics 1
+	
+
+	Politics 3
+	Influence: Street 1
+	Merits 
+	Security 5
+     Alarms
+	Influence: Transportation 2
+	Blush of Health (1) 
+	Stealth 5
+     Unseen Presence
+	Influence: Underworld 2
+	Coldly logical (4) 
+	Streetwise 2
+	Resources 5
+	Expert Teacher (3)
+	Subterfuge 2
+	Retainer 3
+     Guard animals
+	Lucky (5) 
+     3 per season, 3 remaining
+	Survival 2
+	Retainer 2
+     Influence
+	Sleep Unseen (5) 
+	
+
+	
+
+	
+
+	Properties 
+	XP 
+	Flaws
+	Lab for Animalism 1-3 
+	Total Earned: 162
+Unspent: 43
+	Bad Sight (1)
+	Lab for Auspex 3 -5   
+	Freebies Available: 11
+	Tezcatlipoca - can discuss with Vegas Locals
+	Lab for Celerity 1-3  
+	
+
+	
+
+	Lab for Firearms  
+	-3xp Lore: Kindred 3 (exceptional teacher)
+	Rituals
+	Lab for Obfuscate 4
+	-3xp Politics 3 (exceptional teacher)
+	None
+	Lab for Polis 3   
+	-1XP Socials 4
+	
+
+	Lab for Potence 1-2  
+	-2XP Firearms 1 (Lab)
+	Equipment
+	Lab for Visceratika 1   
+	-1XP Socials 5
+	$34,000
+	Lab for Willpower  
+	-7XP Celerity 1 (out of clan, lab)
+	Stealth +6 camouflage outfit   
+	Lab for Fortitude 3
+	-1XP Socials 6 (lab)
+	Security +5 lock picks
+	Lab for Fortitude 4
+	-6XP Celerity 2 (out of Clan, lab, live fire)
+	Occult +4 Lucky Jackalope Foot
+	Lab for Fortitude 5
+	-1XP Socials 7 (lab)
+	Occult +2 Diving Crystal
+	
+
+	-5XP Fortitude 1 (out of clan, live fire, lab, expert teacher)
+	Security +2 Burglar’s kit
+	
+
+	-1XP Socials 8 (lab)
+	Hard Armor 2, Soft 1 Vest + Shirt 
+	
+
+	-1XP Socials 9 (lab)
+	Heavy Pistol
+	
+
+	-10XP Celerity 3 (out of clan, lab, exceptional instructor, life fire)
+	Spear, expensive
+	
+
+	-1xp Socials 10 (lab)
+	Staff, expensive 
+	
+
+	-1XP Academic specialty in Hebrew
+	C-van (typical shipping container) spec'ed to kindred transportation
+	
+
+	-2 XP Socials 11 (lab, live fire)
+	Puppies!
+	
+
+	-5XP Protean 1 (out of clan, expert teacher, lab, life fire)
+	
+
+	
+
+	-2XP Socials 12 (lab, live fire)
+	
+
+	
+
+	-2XP Socials 13 (lab, live fire)
+	
+
+	
+
+	-10XP Polis 3 (out of clan, lab, live fire, exceptional instructor)
+	
+
+	
+
+	 -6XP Willpower 7 (lab)
+	
+
+	
+
+	-10XP Auspex 3 (lab, live fire, expert teacher)
+	
+
+	
+
+	-15XP Auspex 4 (lab, live fire, expert teacher)
+	
+
+	
+
+	-10XP Fortitude 3 (lab, live fire, expert teacher)
+	
+
+	
+
+	-15XP Fortitude 4 (lab, live fire, ET)
+	
+
+	
+
+	-2XP Survival 2 (ET)

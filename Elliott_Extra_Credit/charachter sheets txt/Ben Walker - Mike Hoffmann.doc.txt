@@ -1,0 +1,262 @@
+﻿Player Name:    Ben Walker
+
+
+	Character Name:  Mike Hoffmann
+	Clan: Toreador 
+
+
+	Title: None
+
+
+	Sire: Unknown
+
+
+	Age Category: Elder                     
+
+
+	Nature:  Guru
+
+
+	Demeanor:  Artiste
+
+
+	Humanity: 8
+
+
+	Generation: 8
+Blood: 15
+	Willpower: 10
+Courage: 5
+	Self-Control: 5
+Conscience: 5
+	
+
+	
+
+	
+
+	Physicals: 13
+	Mentals: 16
+	Socials: 15
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Animalism 3
+	Academics 5
+     Mandarin, Latin, Arabic, Coptic, Urdu, French
+	Boon from Toreador Justicar (Major)
+	Auspex 5
+	Animal Ken 2
+	Contacts 2 
+      Phoenix City Pack Leader (Sabbat masquerade team) 
+      State Gambling Commission Inspector
+	Celerity 5
+	Athletics 5
+     Grappling
+	Haven 6 (exotic animal care area)
+Haven 6
+Haven 6
+Haven 4
+Haven 6
+	Chimerstry 3
+	Awareness 5
+     Spirit Powers
+	Herd 5
+     Magic industry performers and professionals (magicians, students, staff etc.)
+	Dementation 3
+	Brawl 5
+	Influence: Casino 2
+     Monte Carlo
+	Dominate 5
+	Craft 5
+      Craft, Defense, Expression, Intimidation, Leadership, Melee, Stealth, Performance, athletics, awareness, investigation, occult, security, academics, science, brawl, drive, animal Ken, survival
+	Influence: Church 1
+	Fortitude 5
+	Defense 5
+     Staff/Cane
+	Influence: Finance 1
+
+
+Haven 6
+
+
+Haven 6
+	Potence 2
+	Drive 2
+	Influence: High Society 3
+    Animal groups (Breeders, showers, handlers etc.)
+	Presence 4
+	Empathy 5
+     Detecting Lies
+	Influence: Industry 1
+	Spirit Manipulation 4
+	Expression 5
+       Craft, Defense, Expression, Firearms, Intimidation, Performance, Stealth, Subterfuge,  empathy, leadership, politics, animal Ken        
+	Influence: Media 5
+	
+
+	Firearms 3
+	Influence: Politics 1
+	Merits 
+	Intimidation 5
+	Resources 5
+	Anarch Sorcerer: Animism (3)
+
+
+	Investigation 5
+     Masquerade Breeches
+	Retainer 1
+     Investigation (Hoffman’s lovely assistant, Janice)
+	Ambidextrous (3)
+
+
+	Leadership 5
+     Entertainment
+	Retainer 1
+    Corporate Headhunter
+	Color Coordinated (2)
+
+
+	Lore: Changing Breeds 1
+	Retainer 1
+     Computer programmer and research expert from the conference at the college
+	Eat food (1)
+
+
+	Lore: Fae 1
+	Rituals
+	Eidetic memory (1)
+
+
+	Lore: Hunter 1
+	Dominoe of Life (1)
+	Expert teacher (3)
+
+
+	Lore: Infernal 1
+	Illuminate Trail of Prey (3)
+	Well-Equipped (2)
+
+
+	Lore: Kindred 5
+     Law
+	Principle Focus of Vitae Infusion (2)
+	
+
+	Lore: Mage 2
+	Reawakening Dead Water (1)
+	Flaws
+	Lore: Spirit 1
+	
+
+	Addiction: Tobacco (1)
+ (comes with selective digestion) -
+	Lore: Wraith 1
+	XP 
+	Prey Exclusion (2)
+     kids under legal smoking age
+	Medicine 3
+	Total Earned: 162
+	
+
+	Melee 2
+	Unspent: 42
+	
+
+	Occult 5
+     Spirits
+	Freebies Available: 6
+	Equipment
+	Politics 5
+     Sabbat
+	
+
+	$4,000 cash  
+	Science: Chemistry 5
+	-5XP Dementation 1 (out of clan, lab, live fire, exceptional teacher)
+	Ability Item: +6 Empathy item
+*please specify the item
+	Science: Physics 5
+	-5XP Dementation 2 (out of clan, lab, live fire, exceptional teacher)
+	Ability Item: Expression +6 stage makeup kit 
+
+
+	Science: Psychology 5
+	-12XP Dementation 3 (out of clan, live fire, expert teacher)
+	Armor: Hard Armor 1 Vest
+	Security 5
+     Mechanical
+	-15XP specialties
+	Weapon: Spear - fast, expensive, staking 
+     4 offensive/ 0 defensive traits 
+     3 lethal  
+	Stealth 5
+     Electronics
+	-9XP Auspex 4 (in clan, lab, live fire, expert teacher)
+	Level 6 crafting tools – a toolbox for working on carpentry, metalwork, costuming etc. including on-site stage supplies
+
+
+	Streetwise 5
+     Navigation
+	-20XP Auspex 5 (in clan, expert teacher)
+	Large Rat – 6 health levels, 2 lethal attack. Takes 2 attacks per round as per Celerity 3. Has Brawl 3, Animal Ken 4, Survival 3, Streetwise 3. 
+	Subterfuge 5
+     Illusions
+	-2XP Firearms 2 (Expert teacher)
+	Misc: Parts from 5 disarmed bombs,  A Crafts 4 Artwork of Landscapes, an elephant
+	Survival 2
+	-2XP Survival 2 (Expert teacher)
+	Weapon: 3 grapple bows, expensive longbow
+	
+
+	-4XP Brawl 3 (Expert teacher)
+	Weapon: 2 daggers, perfect
+	Labs and Properties
+	-4XP Firearms 3 (Expert teacher)
+	Weapon: 2 staking clubs, expensive 
+	Lab for Auspex 4
+	-4XP Medicine 3 (Expert teacher)
+	Expert Manuals for Spirit Manipulation 1-5
+	Lab for Auspex 5
+	-2XP Animal Ken 2 (lab)
+	5 soft armour item
+*please specify item
+	Lab for Dementation 1-2
+
+
+	-9XP Presence 4 (in clan, expert teacher, lab, life fire)
+	5 hard armour item
+*please speicify item
+	Lab for Presence 4
+
+
+	-12XP Celerity 4 (in clan, expert teacher, live fire, lab)
+	Sheild, expensive 
+	Lan for Presence 5
+	-15XP Celerity 5 (in clan, expert teacher, live fire, lab)
+	Weapon: Sniper Rifle, perfect 
+	Library for Abilities, Level 1
+	
+
+	Weapon: Sniper Rifle, expensive 
+	Lab for Street
+	
+
+	Drawing of hunters (Trap Group A)
+	Lab for Vicissitude 1
+	
+
+	
+
+	Lab for  Vicissitude 3
+	
+
+	
+
+	Lab for Animal Ken

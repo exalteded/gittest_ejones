@@ -1,0 +1,170 @@
+﻿Player Name:   Michael Cintron 
+	Character Name: Percival Bouvier 
+	Clan:   Toreador 
+
+
+	Title: None
+
+
+	Sire:    Anya
+
+
+	Age Category:  Fledgling 
+
+
+	Nature: Defender 
+
+
+	Demeanor: Gallant 
+
+
+	Path of Chivalry: 7
+
+
+	Generation: 11
+Blood: 12
+	Willpower: 5
+Courage:  4
+	Self-Control: 4
+Conscience: 3
+	
+
+	
+
+	
+
+	Physicals:  13
+	Mentals: 9
+	Socials: 12
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Auspex 3
+	Academics 1
+     French 
+	Herd 1 
+     Gamblers 
+	Celerity 5
+	Atheltics 5
+     Grapples 
+	Retainer 1
+     Blood
+	Fortitude 2
+	Awareness 2
+	Resources 4
+5
+	Presence 3
+	Brawl 5 
+     Punching 
+	Haven 4
+	Potence 1
+	Defense 5
+     VS melee
+	Influence: Media 3
+Influence: Transportation 3
+	
+
+	Leadership 5
+     Presence 
+	Equipment
+	
+
+	Lore: Kindred 2
+	Dagger, perfect 
+	Rituals
+	Melee 5
+     Bla
+	+5 Leadership suit
+	None
+	Stre
+	Arming Sword
+	
+
+	Subterfuge 2
+	Dagger
+	Merits 
+	Mediciane 1 
+	`Hard armor 2 item
+	Eidetic Memory 
+Enchanting Voice 
+	Streetwise 1
+	Soft Armor 3 vest, expensive
+	Expert Teacher 
+Idelible 
+Natural Leader
+	Firearms 1
+	$30,000 cash
+	Flaws
+	
+
+	XP 
+	Prey Exclusion
+     Children, elderly, sex workers 
+	
+
+	Total Earned:42
+	 
+	
+
+	Unspent: 4
+	  
+	
+
+	Freebies Available: 12
+	
+
+	
+
+	
+
+	
+
+	
+
+	-5XP Fortitude 2(lab, live fire, expert teacher)
+	
+
+	
+
+	-3XP Presence 2 (lab, live fire, expert teacher)
+	
+
+	
+
+	-5XP Potence 1 (lab, live fire, expert teacher)
+	
+
+	
+
+	-2XP Medicine 1
+	
+
+	
+
+	-2XP Streetwise 1
+	
+
+	
+
+	-2XP Kindred Lore 2 (ET)
+	
+
+	
+
+	-12XP Celerity 5 (ET, lab, live fire)
+	
+
+	
+
+	-6XP Presence 3 (ET, lab, live fire)
+	
+
+	
+
+	-2XP Firearms 1 (ET)

@@ -1,0 +1,179 @@
+﻿Player Name:    Derek Thompson
+	Character Name:  Malcolm Gibson
+	Clan:   Gangrel
+
+
+	Title: None
+
+
+	Sire: Unknown
+
+
+	Age Category: Unknown                     
+
+
+	Nature: Soldier
+
+
+	Demeanor:  Loner
+
+
+	Humanity: 7
+
+
+	Generation: 8
+Blood: 15
+	Willpower: 6
+Courage: 3
+	Self-Control: 4
+Conscience: 3
+	
+
+	
+
+	
+
+	Physicals: 16
+	Mentals: 14
+	Socials: 15
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Animalism 4
+	Academics 1
+     Spanish
+	Allies 1 
+     Shadow Lords 
+	Auspex 2  
+	Animal Ken 3
+	Allies 2
+     Shadow Lords
+	Celerity 5
+	Athletics 5
+     Grappling
+	Allies 4
+     Nuwisha
+	Chimerstry 1
+	Awareness 2
+	Haven 3
+	Fortitude 5
+	Brawl 5
+     Claws
+	Herd 4
+     Horses
+	Potence 5
+	Craft: Runes 3
+	Influence: Bureaucracy 4
+	Protean 4
+     Hawk, Mountain Lion
+	Defense 5
+     Vs Guns
+	Influence: Finance 1
+	Rune Magic 2
+	Firearms 2
+	Influence: Media 3
+	Way of Earth 1
+	Leadership 2
+	Influence: Police 3
+	
+
+	Lore: Garou 5
+	Influence: Politics 4
+     Republican mayoral candidate
+	Rituals
+	Lore: Hunter 3
+	Influence: Transportation 3
+	None
+	Lore: Infernal 3
+	Resources 6
+
+
+	
+
+	Lore: Kindred 2
+	
+
+	Merits 
+	Medicine 2
+	XP 
+	None
+	Melee 2
+	Total Earned: 163
+	
+
+	Politics 2
+	Unspent:  27
+	Flaws
+	Security 3
+	Freebies Available: 1
+	One Eye (2)
+	Stealth 2
+	
+
+	Slow Healer (3)
+	Streetwise 2
+	-16 XP Potence 3 (out of clan)
+	
+
+	Survival 3
+	-16XP for Fortitude 5 (in clan, lab, live fire)
+	
+
+	Lore: Mage 2
+	-8XP Animalism 3 (expert teacher, live fire)
+	Properties
+	Lore: Wraith 2
+	-12XP Protean 5 (In clan, live fire, lab, expert teacher)
+	Lab for Animalism 4
+	
+
+	-18XP Potence 4 (in clan, exceptional instructor, live fire, lab) 
+	Lab for Fortitude 5
+	
+
+	-20XP for Potence 5 (out of clan, expert teacher, live fire, lab, 
+	Lab for Protean 1
+	
+
+	-18XP Animalism 4 (in clan, live fire, no teacher
+	
+
+	
+
+	-5XP Celerity 1 (lab, life fire, expert teacher)
+	
+
+	
+
+	-5XP Celerity 2 (lab, life fire, expert teacher)
+	
+
+	
+
+	-12XP Celerity 3 (lab, life fire)
+	
+
+	
+
+	-12XP Celerity 4 (lab, live fire, exceptional isntructor)
+	
+
+	
+
+	-16XP Celerity 5 (lab, live fire, exceptional instructor)
+	
+
+	
+
+	-2XP Gangrel Rune Magic 2 (lab, ET)
+	
+
+	
+
+	-6XP Way of Earth 1

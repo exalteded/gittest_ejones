@@ -1,0 +1,234 @@
+﻿Player Name:   Nicholas Zielinski
+	Character Name:  Connor Pzerterski
+	Clan: Follower of Set
+
+
+	Title: None
+
+
+	Sire:    Khaled Al Fakani
+
+
+	Age Category:  Neonate
+
+
+	Nature: Conniver
+
+
+	Demeanor: Capitalist 
+
+
+	Path of Typhon: 5
+
+
+	Generation: 5
+Blood: 40
+	Willpower: 3
+Courage:  4
+	Self-Control: 4
+Conscience: 3
+	
+
+	
+
+	
+
+	Physicals: 12
+	Mentals: 16
+	Socials: 16
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Obfuscate 6
+      Soul Mask
+	Investigation 5
+     Wiretapping
+	Influence: Underworld 5
+	Fortitude 1
+	   Subterfuge 5
+     Smuggling
+	Resources 4
+	Potence 2
+	Athletics 3
+	Herd 3
+     Intimidating Ex-cons
+	Viseratika 1
+	Defense 3
+	Influence: Industry 2
+	Rituals
+	Brawl 2
+	Influence: Politics 1
+	None
+	Craft: Metal 2
+     Firearms
+	Influence: Bureaucracy 3
+
+
+	
+
+	Firearms 2
+	Influence: Occult 1 
+	Merits 
+	Kindred Lore 4
+     Followers of Set 
+	
+
+	None
+	Leadership 2
+	XP 
+	
+
+	Academics 1 
+     Egyptian, Mandarin, Spanish
+	Total Earned: 120
+	Flaws
+	Occult 5
+	Unspent: 1
+	Bad Sight
+	Stealth 8
+	Freebies Available: 12
+	
+
+	
+
+	
+
+	Equipment
+	
+
+	-3XP Obfuscate 1 (Live-fire Training, Khal's Obfuscate 1 Lab, Expert Teacher Khal)
+	+5 Subterfuge Trick construction van with ejection seat
+	
+
+	-2XP Physicals 5 (no teacher)
+	1 soft armor kevlar vest 
+	
+
+	-2 XP Academics Specialization – Mandarin
+	Weapon: Light Pistol
+     1 offensive/0 defensive traits
+     1 Lethal (+1 vs Mortal) Bashing Vs Kindred
+	
+
+	-9XP Presence 4 (Live-fire Training, Presence 4 Lab, Expert Teacher)
+	Weapon: Exceptional assult rifle with flamwethrower attachment
+	
+
+	-1`XP Academics specialization in Spanish
+	$3000 Cash
+	]
+	-12XP Presence 5 (lab, live fire, exceptional instructor)
+	
+
+	
+
+	-3XP Obfuscate 2 (live fire, lab, exceptional instructor)
+	Labs and Properties
+	
+
+	-1XP Physicals 6 (Expert teacher)
+	Lab for Fortitude 1
+	
+
+	-5XP Potence 1 (live fire, lab, expert teacher)
+	Lab for Viscerataka 1
+	
+
+	-10XP Obfuscate 3 (live fire, lab, exceptional instructor)
+	
+
+	
+
+	-5XP Fortitude 1 (live fire, lab, expert teacher)
+	
+
+	
+
+	-5XP Fortitude 2 (live fire, lab, expert teacher)
+	
+
+	
+
+	-2xp Stealth 1 (expert teacher)
+	
+
+	
+
+	-2xp Stealth 2 (expert teacher)
+	
+
+	
+
+	-5XP Fortitude 1 (exceptional instructor, lab, life fire)
+	
+
+	
+
+	-4XP Stealth 3 (exception instructor)
+	
+
+	
+
+	-2XP Mentals 13 (lab, expert teacher)
+	
+
+	
+
+	-2XP Socials 13 (lab, expert teacher)
+	
+
+	
+
+	-2XP Mentals 14 (lab, expert teacher)
+	
+
+	
+
+	-2XP Socials 14 (lab, expert teacher)
+	
+
+	
+
+	-2XP Mentals 15 (lab, expert teacher)
+	
+
+	
+
+	-2XP Socials 15 (lab, expert teacher)
+	
+
+	
+
+	-15XP Obfuscate 6 Soul Mask (lab, live fire, expert teacher)
+	
+
+	
+
+	-3XP Mentals 16 (lab, live fire, expert teacher)
+	
+
+	
+
+	-3XP Socials 16 (lab, live fire, expert teacher)
+	
+
+	
+
+	-5XP Potence 1 (lab, life fire, expert teacher)
+	
+
+	
+
+	-5XP Potence 2 (lab, life fire, expert teacher)
+	
+
+	
+
+	-5xp Viseratika 1 (ET, lab, live fire)
+	-

@@ -1,0 +1,233 @@
+﻿Player Name:   Bryan Irelan
+
+
+	Character Name: Tailor Becker
+	Clan: Follower of Set 
+
+
+	Title: none
+
+
+	Sire: Vincent Santimore
+
+
+	Age Category: Early Neonate                     
+
+
+	Nature:  Defender
+
+
+	Demeanor:  Pedagogue
+
+
+	Humanity: 9
+
+
+	Generation: 12
+Blood: 11
+	Willpower: 3
+Courage: 5
+	Self-Control: 4
+Conscience: 5
+	
+
+	
+
+	
+
+	Physicals: 11
+	Mentals: 12
+	Socials: 10
+	
+
+	
+
+	
+
+	Disciplines
+	Abilities 
+	Backgrounds:
+	Auspex 2
+	Academics 1
+    Egyptian, Mandarin Chinese
+	Ally 1 
+     Itzcoatlmani "Coatl" Popoca - Tlacique Setite
+	Bardo 4
+	Athletics 5        
+	Herd 2
+     Patrons at the cyber cafe
+	Celerity 3
+	Awareness 2
+	Influence: Finance 2
+
+
+	Fortitude 5
+	Brawl 5
+     Biting as a Snake
+	Influence: Media 5
+Influence: Police 5
+	Obfuscate 3
+	Defense 5
+     Swords
+	Influence: Underworld 2
+	Potence 5
+
+
+	Firearms 1
+	Mentor 1
+     Survival, Virtues
+	Protean 2
+	Investigation 1
+	Mentor 5 Itzcoatlmani Popoca, aka ‘Coatl’
+     Protean, Auspex, Craft (Program), Awareness, Virtues, Willpower
+	Serpentis 5
+	Leadership 2
+	Resources 5
+	Visceratika 1
+	Lore: Kindred 2
+	
+
+	Valor of Sutekh 2
+	Security 5
+     Hacking
+	XP 
+	
+
+	Stealth 2
+	Total Earned: 149
+	
+
+	Streetwise 2
+	Unspent:  1
+	Equipment
+	Subterfuge 5
+     Forged Documents
+	Freebies Available: 2
+
+
+
+	$510,350 cash
+	Survival 5
+	
+
+	Ability Item: +5 Security Computer, Multi-X MP
+	
+
+	-3XP Potence 1 (In clan, Exceptional Instructor, lab, live fire)
+	Ability Item: +5 Stealth coat 
+	Labs and Properties
+	-3XP Potence 2 (In clan, expert teacher, lab) 
+	Ability Item: +5 Athletics Gloves/Chain
+	Lab for Athletics
+	-3XP Serpentis 2 (In clan, expert teacher, live fire)
+	Ability Item: +5 Occult Anhk 
+	Lab for Bardo 1-4
+	-6XP Serpentis 3 (live fire, lab, expert teacher) 
+	Ability Item: +4 Investigation glasses
+Ability Item: +5 Leadership Stylish hat
+	Lab for Protean 1 
+	-6XP Potence 3 (In clan, live fire, expert teacher, lab)
+	Ability Item: Stealth +1 padded socks
+Ability Item: +3 Subterfuge Code bracelet
+	Lab for Serpentis 2
+	-6XP Auspex 2 (Out of Clan, live fire, expert teacher)
+	Armor: 1 Soft Armor Kevlar Vest
+	
+
+	-9XP Serpentis 4 (Live-Fire, Serpentis 4 Lab, Expert Teacher)
+	Armor: 3 Hard Armor Hojo Mechanized Infantry Cloak
+	Merits 
+	-12 XP Serpentis 5 (Live fire, lab, expert teacher)
+	Weapon: Cold Iron Rod 
+       2 offensive traits
+       3 lethal damage
+	Expert Teacher (3)
+	-5XP Fortitude 1 (live fire, lab, expert teacher)
+	Weapon: Crossbow, expensive
+     1 offensive trait
+     2 Lethal damage (Staking)
+	Eat Food (1)
+	-2XP Brawl 2 (lab)
+	Weapon: Pistol
+      1 offensive trait
+      1 Lethal (+1 vs Mortals, Bashing vs Kindred)
+	Flaws
+	-2XP Survival 1 (lab, exceptional instructor)
+	Weapon: Sword, expensive 
+     2 offensive/1 defensive trait
+     2 Lethal damage 
+	Bad Sight (1) 
+	-5XP Fortitude 2 (live fire, lab, expert teacher)
+	Weapon: Assault Rifle, expensive, flamethrower attachment: 
+     3 offensive/0 defensive traits 
+     3 Lethal (+1 vs mortal) Bashing vs Kindred
+	
+
+	-10XP Fortitude 3 (live fire, lab, expert teacher)
+	Weapon: Chinese Assault Rifle, expensive  
+     3 offensive/1 defensive traits 
+     3 lethal
+	
+
+	-5XP Celerity 1 (live fire, lab, expert teacher)
+	Weapon: Osirian Shepard’s Crook, +1 Occult, Grappling
+     3 offensive/3 defensive traits 
+     2 Bashing 
+	
+
+	-3XP Willpower 4 (Expert teacher)
+	Ability Item: Leadership +4 Anhk earings 
+	
+
+	-9XP Potence 4 (exceptional instructor, live fire, lab)
+	Miscellaneous items: Small Lockbox, Stolen American passport, Onesong translation Technofetish, lowest level, 600,000 stock in Uchida-Zanbatö Technologies
+	
+
+	-20XP Fortitude 5 (out of clan, exceptional instructor, lab, live fire)
+	
+
+	
+
+	-4XP Bardo 2 (live fire, lab)
+	Rituals
+	
+
+	-8XP Bardo 3 (live fire, lab)
+	Reawakening Dead Water
+	
+
+	-5XP Visceratika 1 (lab, live fire, expert teacher)
+	Priciple Focus of Vitae Infusion 
+	
+
+	-5XP Protean 1  (lab, live fire, expert teacher)
+	
+
+	
+
+	-9XP Bardo 4 (live fire, lab, expert teacher)
+	
+
+	
+
+	-10XP Celerity 3 (life fire, labm expert teacher)
+	
+
+	
+
+	-5XP Valor of Sutekh 2 with Priciple Focus of Vitae Infusion (lab, life fire, exceptional isntructor)
+	
+
+	
+
+	-5XP Protean 2 (lab, live fire, expert teacher)
+	
+
+	
+
+	-3XP Willpower 4 (lab, expert teacher)
+	
+
+	
+
+	-12XP Potence 5 (lab, live fire, exceptional instructor)
