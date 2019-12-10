@@ -108,7 +108,7 @@ Conviction: 4
 
 	
 
-	Total Earned:30
+	Total Earned: 30
 	 
 	
 
